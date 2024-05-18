@@ -1,0 +1,45 @@
+/.phpunit.cache
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.production
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
+
+# vue
+# Logs
+/vue/logs
+/vue/*.log
+/vue/npm-debug.log*
+/vue/yarn-debug.log*
+/vue/yarn-error.log*
+/vue/pnpm-debug.log*
+/vue/lerna-debug.log*
+
+/vue/node_modules
+/vue/dist
+/vue/dist-ssr
+/vue/*.local
+
+# Editor directories and files
+/vue/.vscode/*
+/vue/!.vscode/extensions.json
+/vue/.idea
+/vue/.DS_Store
+/vue/*.suo
+/vue/*.ntvs*
+/vue/*.njsproj
+/vue/*.sln
+/vue/*.sw?
+
